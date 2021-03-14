@@ -27,7 +27,7 @@ function App() {
                 <DraggableIcon imgSrc={'./svg/Lung_right.svg'}></DraggableIcon>
                 <DraggableIcon imgSrc={'./svg/Lung_left.svg'}></DraggableIcon>
                 <DraggableIcon imgSrc={'./svg/Lung_right_leftai.svg'}></DraggableIcon>
-                <DraggableIcon imgSrc={'./svg/liver.svg'}></DraggableIcon>
+                <DraggableIcon imgSrc={'./svg/Liver.svg'}></DraggableIcon>
                 <DraggableIcon imgSrc={'./svg/Connexon.svg'}></DraggableIcon>
                 <DraggableIcon imgSrc={'./svg/Connexon_1.svg'}></DraggableIcon>
                 <DraggableIcon imgSrc={'./svg/Connexon_2.svg'}></DraggableIcon>
